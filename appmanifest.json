@@ -1,6 +1,6 @@
 {
-	"name": "tonFishing",
-	"short_name": "tonFishing",
+	"name": "dAppWordle",
+	"short_name": "dAppWordle",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
